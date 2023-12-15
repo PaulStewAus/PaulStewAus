@@ -29,7 +29,7 @@ GitHub: PaulStewAus
 LinkedIn: paulstewartaus 
 
 Repository Files
-- Readme.me
+- README.md
 - Data
   - imdb.title.basics.csv.gz
   - imdb.title.ratings.csv.gz
